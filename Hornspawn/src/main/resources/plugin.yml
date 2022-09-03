@@ -1,0 +1,4 @@
+name: Hornspawn
+version: 'Primitive Beta 0.06'
+main: me.systemoutprintln.dev.hornspawn.Hornspawn
+api-version: 1.19
