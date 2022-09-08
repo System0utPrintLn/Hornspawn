@@ -1,0 +1,74 @@
+||||||||  ||\\     ||  /|||||||    //|||\\
+   ||     || \\    ||  ||         ||     ||
+   ||     ||  \\   ||  ||         ||     ||
+   ||     ||   \\  ||  ||/////    ||     ||
+   ||     ||    \\ ||  ||         ||     ||
+||||||||  ||     \\||  ||          \\|||//
+
+(No way I'm doing the whole word, info should be good.)
+
+Hornspawn is a Minecraft plugin created by SystemOutPrintLn, and designed by him and his friend MouBieCat. The plugin is
+based off popular first person shooters (FPS) where characters have some sort of special ability that is usually game
+changing and more powerful then the rest of their abilities, this is brought to Minecraft by the plugin in the form of
+goat horns, one of the items brought in update 1.19. Since there are multiple goat horns, each one of them does
+something different, some being stronger then others, but all of them have the same cooldown time.
+
+Below you can find a list with the name of all goat horns and their abilities as of version New Project 0.08
+
+PONDER
+(Pondering Hearts)
+
+Ability: Absorption II
+Duration: 20 seconds
+=========================
+SING
+(Song of speed)
+
+Ability: Speed II
+Duration: 20 seconds
+=========================
+SEEK
+(Seeking Force)
+
+Ability: Strenght II
+Duration: 20 seconds
+=========================
+FEEL
+(Divine Healing)
+
+Ability: Regeneration III
+Duration: 10 seconds
+=========================
+ADMIRE
+(Inspiration)
+
+Ability: Haste II
+Duration: 20 seconds
+=========================
+YEARN
+(Lightning Punch)
+
+Ability: Spawns a lightning
+on the entity you've hit
+Duration: 15 seconds
+=========================
+Call
+(Call of Arms)
+
+Ability: Spawns 6 goats
+that attack hostile mobs
+Duration: 20 seconds
+=========================
+Dream
+(Fear Aura)
+
+Ability: Scares mobs away
+from you
+Duration: 20 seconds
+=========================
+
+My GitHub: https://github.com/System0utPrintLn
+
+
+
+

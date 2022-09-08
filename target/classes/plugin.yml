@@ -1,0 +1,4 @@
+name: Hornspawn
+version: 'New Project 0.08'
+main: me.systemoutprintln.dev.hornspawn.Hornspawn
+api-version: 1.19
